@@ -1,5 +1,20 @@
 ## Plug2Go Project 👋
 
+### Plug2Go is a project that aims to provide a platform for electric vehicle owners to find charging stations 
+and to provide a platform for charging station owners to manage their stations.
+
+### Structure
+The project is divided into three main parts:
+1. The server - CSMS
+    #### The server is built using the following technologies:
+    - Elixir - Phoenix Framework
+    - Postgres
+    - Svelte - Frontend
+    - Docker
+2. Strapi - CMS
+3. The client - webapp
+4. Mobile app (coming soon)
+
 <!--
 
 **Here are some ideas to get you started:**
