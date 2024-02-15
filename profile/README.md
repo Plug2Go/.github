@@ -1,7 +1,6 @@
 ## Plug2Go Project 👋
 
-### Plug2Go is a project that aims to provide a platform for electric vehicle owners to find charging stations 
-and to provide a platform for charging station owners to manage their stations.
+### Plug2Go is a project that aims to provide a platform for electric vehicle owners to find charging stations and to provide a platform for charging station owners to manage their stations.
 
 ### Structure
 The project is divided into three main parts:
